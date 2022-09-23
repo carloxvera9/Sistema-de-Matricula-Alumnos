@@ -1,0 +1,371 @@
+2021-11-20 12:43:14,134 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-20 12:45:31,851 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-20 12:49:49,589 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-11-20 12:49:50,733 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LPI_Proyecto:LPI_Proyecto:0.0.1-SNAPSHOT @ C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\pom.xml.
+2021-11-20 12:49:52,294 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lp1_2021_2_sabado_02_grupo_01/src
+2021-11-20 12:49:52,294 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /lp1_2021_2_sabado_02_grupo_01/src overlaps with sources folder /lp1_2021_2_sabado_02_grupo_01/src
+2021-11-20 12:49:52,300 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /lp1_2021_2_sabado_02_grupo_01/src/test/java because it overlaps with /lp1_2021_2_sabado_02_grupo_01/src
+2021-11-20 12:49:53,942 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-11-20 12:49:54,300 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:49:54,308 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 12:49:54,334 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:49:54,337 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 12:51:01,900 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:51:01,916 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 12:51:01,921 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:51:01,923 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 12:53:02,201 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:53:02,209 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 12:53:02,214 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:53:02,215 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 12:54:27,842 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:54:27,854 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 12:54:27,857 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:54:27,858 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 12:55:07,387 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:55:07,395 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 12:55:07,398 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:55:07,400 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 12:55:49,834 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:55:49,845 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 12:55:49,848 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:55:49,849 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 12:57:20,676 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:57:20,684 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 12:57:20,687 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 12:57:20,689 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:14:59,189 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:14:59,199 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2021-11-20 13:14:59,206 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:14:59,208 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:16:32,774 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:16:32,775 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-20 13:16:32,783 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:16:32,784 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:17:50,351 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:17:50,368 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:17:50,370 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:17:50,373 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:18:27,901 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:18:27,908 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:18:27,910 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:18:27,911 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:18:52,240 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:18:52,247 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:18:52,249 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:18:52,250 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:19:45,734 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:19:45,741 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:19:45,743 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:19:45,744 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:20:18,154 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:20:18,163 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:20:18,216 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:20:18,218 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:20:44,110 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:20:44,121 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:20:44,125 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:20:44,127 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:21:18,267 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:21:18,276 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:21:18,282 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:21:18,283 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:23:07,633 [Worker-28: Launching FrmPrincipal] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:23:07,643 [Worker-28: Launching FrmPrincipal] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:23:07,646 [Worker-28: Launching FrmPrincipal] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:23:07,647 [Worker-28: Launching FrmPrincipal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:24:53,975 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:24:53,987 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:24:53,991 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:24:53,993 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:25:39,152 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:25:39,164 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:25:39,167 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:25:39,169 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:26:06,120 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:26:06,130 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:26:06,133 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:26:06,135 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-20 13:26:38,507 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:26:38,517 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-20 13:26:38,520 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-20 13:26:38,521 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:22:25,553 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-21 22:22:40,453 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:22:40,465 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:22:40,478 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:22:40,481 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:25:52,856 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:25:52,879 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:25:52,884 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:25:52,886 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:26:22,243 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:26:22,256 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:26:22,261 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:26:22,264 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:29:33,089 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:29:33,106 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:29:33,111 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:29:33,114 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:31:09,728 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:31:09,748 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:31:09,754 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:31:09,756 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:32:18,585 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:32:18,601 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:32:18,605 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:32:18,607 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:34:07,213 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:34:07,228 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:34:07,232 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:34:07,233 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-21 22:39:52,134 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:39:52,150 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-21 22:39:52,156 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-21 22:39:52,158 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-26 22:04:09,576 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-26 22:09:36,674 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-26 22:09:36,702 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-26 22:09:36,731 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-26 22:09:36,739 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 10:42:28,537 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-27 10:46:08,155 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 10:46:08,166 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 10:46:08,175 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 10:46:08,178 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 10:56:07,506 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 10:56:07,545 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 10:56:07,551 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 10:56:07,553 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 11:33:27,427 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 11:33:27,455 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 11:33:27,463 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 11:33:27,465 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:39:03,360 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-27 13:41:55,548 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:41:55,564 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 13:41:55,576 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:41:55,577 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:43:05,049 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:43:05,076 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 13:43:05,082 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:43:05,085 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:45:23,322 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:45:23,334 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 13:45:23,338 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:45:23,339 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:57:07,268 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:07,278 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 13:57:07,282 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:07,286 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:57:08,318 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:08,322 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 13:57:08,327 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:08,330 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:57:11,897 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:11,898 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 13:57:11,900 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:11,904 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:57:16,552 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:16,555 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 13:57:16,557 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:16,559 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 13:57:19,833 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:19,834 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 13:57:19,837 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 13:57:19,842 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:01:58,496 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:01:58,498 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:01:58,499 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:01:58,500 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:02:03,697 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:02:03,701 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:02:03,702 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:02:03,703 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:02:08,353 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:02:08,354 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:02:08,355 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:02:08,356 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:02:20,478 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:02:20,479 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:02:20,481 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:02:20,482 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:04:08,649 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:04:08,650 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:04:08,652 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:04:08,653 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:05:05,226 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:05:05,240 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 14:05:05,243 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:05:05,245 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:06:32,485 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:06:32,504 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 14:06:32,509 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:06:32,511 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:06:48,457 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:06:48,469 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 14:06:48,475 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:06:48,477 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:07:09,142 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:07:09,150 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 14:07:09,152 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:07:09,153 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:07:32,832 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:07:32,847 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 14:07:32,851 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:07:32,853 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:12:56,973 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:12:56,974 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:12:56,975 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:12:56,976 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:16:23,214 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:16:23,216 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:16:23,217 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:16:23,218 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:17:44,136 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:17:44,149 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 14:17:44,152 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:17:44,154 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:17:55,733 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:17:55,749 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-11-27 14:17:55,754 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:17:55,757 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:19:05,057 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:19:05,059 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:19:05,060 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:19:05,061 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:28:59,029 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:28:59,030 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:28:59,031 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:28:59,034 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:42:53,352 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:42:53,355 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-27 14:42:53,365 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:42:53,366 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:45:19,905 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:45:19,907 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:45:19,914 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:45:19,916 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:50:27,718 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:50:27,720 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:50:27,721 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:50:27,722 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:53:05,165 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:53:05,167 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:53:05,170 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:53:05,178 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:57:44,699 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:57:44,701 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:57:44,702 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:57:44,702 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:57:56,942 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:57:56,944 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:57:56,947 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:57:56,954 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 14:59:01,231 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:59:01,232 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 14:59:01,233 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 14:59:01,234 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:01:41,529 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:01:41,531 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-27 15:01:41,539 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:01:41,541 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:04:30,597 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:04:30,602 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:04:30,605 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:04:30,606 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:19:15,609 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:19:15,610 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:19:15,611 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:19:15,612 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:19:16,624 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:19:16,626 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-27 15:19:16,627 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:19:16,628 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:19:18,930 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:19:18,931 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:19:18,932 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:19:18,933 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:24:50,875 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:24:50,884 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:24:50,887 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:24:50,888 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:26:43,667 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:26:43,675 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:26:43,677 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:26:43,678 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:30:13,431 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:30:13,433 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:30:13,435 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:30:13,436 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:30:24,507 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:30:24,508 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-11-27 15:30:24,517 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:30:24,518 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:30:41,212 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:30:41,221 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:30:41,223 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:30:41,226 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:31:08,408 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:31:08,410 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:31:08,412 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:31:08,414 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:32:26,297 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:32:26,308 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:32:26,312 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:32:26,313 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:33:19,299 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:33:19,308 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:33:19,311 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:33:19,312 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:33:52,958 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:33:52,967 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:33:52,969 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:33:52,970 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:34:06,449 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:34:06,460 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:34:06,464 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:34:06,465 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:34:11,492 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:34:11,504 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-11-27 15:34:11,506 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:34:11,508 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:35:46,696 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:35:46,697 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:35:46,697 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:35:46,698 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:35:50,677 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:35:50,678 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:35:50,680 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:35:50,681 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:36:24,939 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:36:24,941 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:36:24,942 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:36:24,943 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 15:40:48,768 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:40:48,772 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 15:40:48,773 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 15:40:48,774 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 16:41:41,105 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 16:41:41,107 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 16:41:41,109 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 16:41:41,110 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-11-27 16:41:46,476 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 16:41:46,477 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-11-27 16:41:46,478 [Worker-96: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-27 16:41:46,479 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-12-04 10:38:41,147 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-12-04 10:39:05,730 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-12-04 10:39:05,741 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2021-12-04 10:39:05,755 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-12-04 10:39:05,757 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
+2021-12-04 11:52:07,183 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-06 01:30:58,444 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-12-06 01:31:29,067 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-23 10:02:26,971 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-23 10:40:59,620 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-23 10:41:19,362 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: LPI_Proyecto:LPI_Proyecto:0.0.1-SNAPSHOT @ C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll(Okey)\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\pom.xml.
+2022-09-23 10:41:20,385 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-23 10:41:20,392 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-09-23 10:41:20,432 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-23 10:41:20,434 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Carlo\OneDrive\Escritorio\Ciclo 3 - 2021-ll(Okey)\Lenguaje de Programacion l\W-Proyectoo\lp1_2021_2_sabado_02_grupo_01\src\test\resources
